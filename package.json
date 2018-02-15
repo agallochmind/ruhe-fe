@@ -1,0 +1,22 @@
+{
+  "name": "ruhe-fe",
+  "version": "1.0.0",
+  "description": "如何网（一个经验和技能分享的网站）-前端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agallochmind/ruhe-fe.git"
+  },
+  "author": "cuixing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agallochmind/ruhe-fe/issues"
+  },
+  "homepage": "https://github.com/agallochmind/ruhe-fe#readme",
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
+}

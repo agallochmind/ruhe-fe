@@ -1,0 +1,6 @@
+problems:
+1、浏览器报错：
+	这是因为目标文件没有把公共的js加载在最前面。
+2、图标素材地址：
+	http://fontawesome.dashgame.com/
+	安装：npm install font-awesome --save

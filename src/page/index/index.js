@@ -2,10 +2,11 @@
 * @Author: CuiXing
 * @Date:   2018-02-16 01:50:21
 * @Last Modified by:   CuiXing
-* @Last Modified time: 2018-02-16 19:33:27
+* @Last Modified time: 2018-02-16 22:03:56
 */
 console.log('i am index js');
 
+require('page/common/header/index.js');
 
 
 

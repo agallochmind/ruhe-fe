@@ -1,0 +1,19 @@
+/*
+* @Author: CuiXing
+* @Date:   2018-02-17 20:50:23
+* @Last Modified by:   CuiXing
+* @Last Modified time: 2018-02-17 21:13:29
+*/
+.header-sim{
+	background: white;
+	height: 60px;
+	margin:0px 0px 5px 0px; 
+}
+.header-sim .logo{
+    display: block;
+    font-size: 36px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    color: #c60023;
+}
